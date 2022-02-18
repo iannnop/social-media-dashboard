@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- [Frontend Mentor: Solution URL]()
-- [Vercel: Live Site URL]()
+- [Frontend Mentor: Solution URL](https://www.frontendmentor.io/solutions/social-media-dashboard-using-react-and-tailwind-css-NTZv3aJYx)
+- [Vercel: Live Site URL](https://social-media-dashboard-dun-nine.vercel.app/)
 
 ## My process
 
