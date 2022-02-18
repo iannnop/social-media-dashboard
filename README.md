@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# Frontend Mentor - Social media dashboard with theme switcher solution
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a solution to the [Social media dashboard with theme switcher challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-media-dashboard-with-theme-switcher-6oY8ozp_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Available Scripts
+## Overview
 
-In the project directory, you can run:
+### The challenge
 
-### `npm start`
+Users should be able to:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- View the optimal layout for the site depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Toggle color theme to their preference
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Screenshot
+![](./desktop-light.png)
+![](./desktop-dark.png)
 
-### `npm test`
+### Links
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [Frontend Mentor: Solution URL]()
+- [Vercel: Live Site URL]()
 
-### `npm run build`
+## My process
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Built with
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- Tailwind CSS
+- [React](https://reactjs.org/) - JS library
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## What I learned
 
-### `npm run eject`
+It took me a lot longer to finish this challenge because I completely underestimated how much work would go into a theme toggle-switch. Thankfully however, as I choose harder challenges to work on, I force myself to learn and improve my frontend development.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+At first, I tried to learn Material UI and Chakra UI, but I felt that although there were pre-built components, it was difficult to fight against the default settings to get the design that I was looking for. I ended up choosing to learn and use Tailwind CSS for this project, and I don't regret anything. I absolutely enjoyed using Tailwind to design this page because I didn't need to think of class names, modifying one element doesn't break everything, and I have the ability to easily and freely customize my React components.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+I will continue to learn and use Tailwind in my future challenges.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Continued development
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+I'm looking forward to take on a fullstack application challenge, but I feel like I need to practice more with small javascript applications. I felt like this was especially challenging because I didn't know anything about storing data in localStorage or how to build a small toggle switch. I'm looking forward to building more small components that are unexpectedly challenging, as I'm improving myself and growing as a frontend developer.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Useful resources
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [Tailwind CSS Documentation](https://tailwindcss.com/docs/)
+- [Fireship Tailwind CSS Tutorial](https://www.youtube.com/watch?v=pfaSUYaSgRo&ab_channel=Fireship)
 
-### Code Splitting
+## Author
+Ian Wu
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Frontend Mentor - [@iannnop](https://www.frontendmentor.io/profile/iannnop)
+- LinkedIn - [@iannnop](https://www.linkedin.com/in/iannnop/)
+- Instagram - [@iannnop_frontend](https://www.instagram.com/iannnop_frontend/)
+- Twitter - [@iannnop](https://www.twitter.com/iannnop)
