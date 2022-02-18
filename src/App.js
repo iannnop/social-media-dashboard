@@ -3,7 +3,7 @@ import images from './images'
 
 function App() {
   return (
-    <main className='bg-white dark:bg-dark-bg'>
+    <main className='bg-white dark:bg-dark-bg h-max'>
       <header className='bg-light-topbg dark:bg-dark-topbg dark:text-dark-title'>
         <div className='pt-10 md:flex md:justify-between w-11/12 md:w-4/5 m-auto'>
         <div className='border-b-[1px] border-b-light-paragraph dark:border-b-dark-paragraph md:border-b-0'>
@@ -26,8 +26,8 @@ function App() {
 
       {/* Overview Grid */}
       
-      <div className='w-11/12 md:w-4/5 m-auto'>
-        <h2 className='lg:pb-6 font-bold text-2xl text-light-paragraph dark:text-dark-title'>Overview - Today</h2>
+      <div className='pb-6 w-11/12 md:w-4/5 m-auto'>
+        <h2 className='pb-6 font-bold text-2xl text-light-paragraph dark:text-dark-title'>Overview - Today</h2>
         <div className='grid auto-rows-auto lg:grid-cols-4 lg:grid-rows-2 md:grid-cols-2 sm:grid-cols-1 gap-x-10 gap-y-6'>
           <SocialMediaOverviewCard icon={images.iconFacebook} metric='Page Views' metricCount='87' change={3} />
           <SocialMediaOverviewCard icon={images.iconFacebook} metric='Likes' metricCount='52' change={-2} />

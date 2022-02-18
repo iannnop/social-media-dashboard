@@ -10,6 +10,6 @@
 
 @layer components {
     html, body, #root, .App, main {
-        height: 100%;
+        @apply h-full bg-white dark:bg-dark-bg
     }
 }
