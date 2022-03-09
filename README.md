@@ -45,8 +45,6 @@ I will continue to learn and use Tailwind in my future challenges.
 
 I'm looking forward to take on a fullstack application challenge, but I feel like I need to practice more with small javascript applications. I felt like this was especially challenging because I didn't know anything about storing data in localStorage or how to build a small toggle switch. I'm looking forward to building more small components that are unexpectedly challenging, as I'm improving myself and growing as a frontend developer.
 
----
-
 ### Useful resources
 
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs/)
